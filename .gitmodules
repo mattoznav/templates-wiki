@@ -1,0 +1,6 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/mattoznav/templates-wiki-website.git
+[submodule "app"]
+	path = app
+	url = https://github.com/mattoznav/templates-wiki-app.git
