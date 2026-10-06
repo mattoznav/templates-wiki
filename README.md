@@ -66,3 +66,7 @@ Both follow PokéAPI's fair use policy, which asks clients to cache what they re
 Data from [PokéAPI](https://pokeapi.co/); artwork, sprites and cries are loaded from its public repositories and are not included here.
 
 Pokémon and Pokémon character names are trademarks of Nintendo, Creatures Inc. and GAME FREAK inc. This template is an unofficial fan reference and is not affiliated with or endorsed by them.
+
+## License
+
+The code is released under the [MIT License](LICENSE). It covers the code only: data from PokéAPI, the artwork loaded from its repositories and the Pokémon trademarks are not covered.
