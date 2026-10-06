@@ -7,6 +7,8 @@
 | [`website`](website) | Static site with a page for every Pokémon, move, ability, type and generation, filters and instant search | Astro | `localhost:4323` |
 | [`app`](app) | Mobile app with the same content, offline cache and saved Pokémon | Flutter | iOS and Android |
 
+Live demo of the website: [mattoznav.github.io/templates-wiki-website](https://mattoznav.github.io/templates-wiki-website/), published from the website repository with GitHub Pages.
+
 Each folder is a Git submodule with its own repository and its own README with more detail. There is no backend: the website reads PokéAPI once at build time, the app reads it directly and keeps what it reads on the device.
 
 ## Requirements
